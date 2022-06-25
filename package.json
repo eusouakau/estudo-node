@@ -1,0 +1,26 @@
+{	
+  "name" : " api-node " ,	
+  "versão" : " 1.0.0 " ,	
+  "descrição" : " " ,	
+  "main" : " index.js " ,	
+  "type" : " commonjs " ,	
+  "roteiros" : {	
+    "test" : " echo \" Erro: nenhum teste especificado \" && exit 1 "	
+  },	
+  "palavras-chave" : [],	
+  "autor" : " " ,	
+  "licença" : " ISC " ,	
+  "dependências" : {	
+    "-" : " ^0.0.1 " ,	
+    "bcryptjs" : " ^2.4.3 " ,	
+    "body-parser" : " 1.19.0 " ,	
+    "expresso" : " ^4.17.1 " ,	
+    "fs" : " ^0.0.1-security " ,	
+    "jsonwebtoken" : " ^8.5.1 " ,	
+    "mangusto" : " ^6.0.12 " ,	
+    "nodemailer" : " ^6.7.0 " ,	
+    "nodemailer-express-handlebars" : " ^4.0.0 " ,	
+    "caminho" : " ^0.12.7 " ,	
+    "salvar" : " ^2.4.0 "	
+  }	
+}
